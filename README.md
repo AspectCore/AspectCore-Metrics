@@ -1,2 +1,2 @@
 # AspectCore-Metrics
-APM agent based on AspectCore and TICK Stack.
+Instrumenting applications with custom metrics (timers, histograms, counters etc) 
